@@ -2,7 +2,7 @@ hciconfig
 
 make sure bluetooth is up for desired bluetooth dongle
 
-hciconfig <device> up
+hciconfig &lt;device&gt; up
 
 ## Flag 1:
 ```./write-flags.sh 12345678901234567890```   
