@@ -1,3 +1,5 @@
+This is the setup: https://github.com/welikechips/ble_ctf
+
 hciconfig
 
 make sure bluetooth is up for desired bluetooth dongle
